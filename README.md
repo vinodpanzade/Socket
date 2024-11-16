@@ -86,4 +86,13 @@ Performance:
 WebSocket offers superior performance and is ideal for low-latency communication.
 
 
+Result:
+Websocket:
+![Screenshot (82)](https://github.com/user-attachments/assets/4314ef1a-2fe1-413c-a07f-035c6414e8a1)
+Socket .io:
+![Screenshot (81)](https://github.com/user-attachments/assets/3f524fae-64f7-4d04-81bc-c51293ac9daa)
+
+
+
+
 
