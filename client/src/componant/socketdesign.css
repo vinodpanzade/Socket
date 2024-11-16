@@ -1,0 +1,67 @@
+.socket-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #4caf50;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #f9f9f9;
+  }
+  
+  .socket-header {
+    text-align: center;
+    color: #4caf50;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .socket-content {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  .socket-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .socket-button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .socket-button:hover {
+    background-color: #45a049;
+  }
+  
+  .socket-message {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #eef6f5;
+    border: 1px solid #4caf50;
+    border-radius: 5px;
+  }
+  
+  .socket-message h4 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .socket-message p {
+    margin: 0;
+    font-size: 16px;
+    color: #555;
+  }
+  

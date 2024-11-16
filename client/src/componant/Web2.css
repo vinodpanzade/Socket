@@ -1,0 +1,68 @@
+.websocket-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #2196f3;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #f1f8ff;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .websocket-header {
+    text-align: center;
+    color: #2196f3;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .websocket-content {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .websocket-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #ffffff;
+  }
+  
+  .websocket-button {
+    padding: 10px 20px;
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .websocket-button:hover {
+    background-color: #1976d2;
+  }
+  
+  .websocket-message {
+    padding: 15px;
+    background-color: #e3f2fd;
+    border: 1px solid #2196f3;
+    border-radius: 5px;
+  }
+  
+  .websocket-message h4 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .websocket-message p {
+    margin: 0;
+    font-size: 16px;
+    color: #555;
+  }
+  
